@@ -10,21 +10,33 @@
 
 <br>
 
+- Total profile views
+
 <a href="https://github.com/gaurangkumar">
   <img align="center" src="https://en4347cusb2mb56.m.pipedream.net" />
 </a>
 
-![GaurangKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurangkumar&show_icons=true&theme=dracula&hide_title=true&hide_rank=true&hide=stars,prs,issues,contribs)
+- Total commits this year
 
-[![GaurangKumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar&layout=compact)](https://github.com/gaurangkumar)
+<a href="https://github.com/gaurangkumar" title="Total commits this year">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurangkumar&show_icons=true&theme=dracula&hide_title=true&hide_rank=true&hide=stars,prs,issues,contribs" />
+</a>
+
+<a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact" />
+</a>
 
 - Top languages
 
-[![GaurangKumar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkumar)](https://github.com/gaurangkumar)
+<a href="https://github.com/gaurangkumar" title="GK's Top Langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkumar" />
+</a>
 
 - Wakatime card
 
-[![GaurangKumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar)](https://github.com/gaurangkumar)
+<a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+</a>
 
 <br>
 
