@@ -22,8 +22,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurangkumar&show_icons=true&theme=dracula&hide_title=true&hide_rank=true&hide=stars,prs,issues,contribs" />
 </a>
 
+<br>
+
 <a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar&layout=compact" />
 </a>
 
 - Top languages
@@ -35,7 +37,7 @@
 - Wakatime card
 
 <a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar" />
 </a>
 
 <br>
