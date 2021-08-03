@@ -18,6 +18,14 @@
 
 [![GaurangKumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar&layout=compact)](https://github.com/gaurangkumar)
 
+- Top languages
+
+[![GaurangKumar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkumar)](https://github.com/gaurangkumar)
+
+- Wakatime card
+
+[![GaurangKumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar)](https://github.com/gaurangkumar)
+
 <br>
 
 Welcome to my profile! This really has a MySpace feel to it, doesn't it? I wonder if I can set up some background tunes 🤔.
