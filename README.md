@@ -8,13 +8,17 @@
   <img align="center" src="https://github-readme-stats-deploy-jeremykenedy.vercel.app/api/top-langs/?username=gaurangkumar&layout=compact&bg_color=30,444444,222222&title_color=fff&text_color=fff&custom_title=What%20I%20Do%20Most&hide_border=true" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/gaurangkumar">
   <img align="center" src="https://en4347cusb2mb56.m.pipedream.net" />
 </a>
 
-<br><br>
+![GaurangKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurangkumar&show_icons=true&theme=dracula&hide_title=true&hide_rank=true&hide=stars,prs,issues,contribs)
+
+[![GaurangKumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar&layout=compact)](https://github.com/gaurangkumar)
+
+<br>
 
 Welcome to my profile! This really has a MySpace feel to it, doesn't it? I wonder if I can set up some background tunes 🤔.
 
@@ -33,8 +37,6 @@ But also interesting are the following tools that you might find useful:
 
 Also, as you can see in the bottom left corner, you can sponsore me for the work I do on IronPHP. I'm very proud to have such a nice group of people willing to support me.
 Thank you!
-
-[![JC5's github stats](https://github-readme-stats.vercel.app/api?username=gaurangkumar)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Contact
 
