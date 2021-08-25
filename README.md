@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm GK
 
 <a href="https://github.com/gaurangkumar">
+  <img align="center" src="https://en4347cusb2mb56.m.pipedream.net" />
+</a>
+<br><br>
+<a href="https://github.com/gaurangkumar">
   <img align="center" src="https://github-readme-stats-deploy-jeremykenedy.vercel.app/api?username=gaurangkumar&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=30,222222,444444&title_color=fff&text_color=fff&line_height=20&custom_title=GitHub%20Stats&hide_border=true" />
 </a>
 
@@ -9,29 +13,16 @@
 </a>
 
 <br>
-
-- Total profile views
-
-<a href="https://github.com/gaurangkumar">
-  <img align="center" src="https://en4347cusb2mb56.m.pipedream.net" />
-</a>
-
-- Total commits this year
+<br>
 
 <a href="https://github.com/gaurangkumar" title="Total commits this year">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurangkumar&show_icons=true&theme=dracula&hide_title=true&hide_rank=true&hide=stars,prs,issues,contribs" />
 </a>
 
 <br>
-
+<!--
 <a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar&layout=compact" />
-</a>
-
-- Top languages
-
-<a href="https://github.com/gaurangkumar" title="GK's Top Langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkumar" />
 </a>
 
 - Wakatime card
@@ -39,7 +30,7 @@
 <a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar" />
 </a>
-
+-->
 <br>
 
 Welcome to my profile! This really has a MySpace feel to it, doesn't it? I wonder if I can set up some background tunes 🤔.
@@ -60,9 +51,9 @@ But also interesting are the following tools that you might find useful:
 Also, as you can see in the bottom left corner, you can sponsore me for the work I do on IronPHP. I'm very proud to have such a nice group of people willing to support me.
 Thank you!
 
+<!--
 #### Contact
 
-<!--
 Hit me up at [gaurangkumarp@gmail.com](gaurangkumarp@gmail.com)
 
 **gaurangkumar/gaurangkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
