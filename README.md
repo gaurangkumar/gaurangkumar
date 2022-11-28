@@ -20,7 +20,7 @@
 </a>
 
 <br>
-<!--
+
 <a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar&layout=compact" />
 </a>
@@ -30,7 +30,7 @@
 <a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar" />
 </a>
--->
+
 <br>
 
 Welcome to my profile! This really has a MySpace feel to it, doesn't it? I wonder if I can set up some background tunes 🤔.
@@ -51,7 +51,7 @@ But also interesting are the following tools that you might find useful:
 Also, as you can see in the bottom left corner, you can sponsore me for the work I do on IronPHP. I'm very proud to have such a nice group of people willing to support me.
 Thank you!
 
-<!--
+
 #### Contact
 
 Hit me up at [gaurangkumarp@gmail.com](gaurangkumarp@gmail.com)
@@ -60,4 +60,3 @@ Hit me up at [gaurangkumarp@gmail.com](gaurangkumarp@gmail.com)
 
 Here are some ideas to get you started:
 
--->
