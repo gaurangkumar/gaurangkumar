@@ -1,19 +1,18 @@
 <h1>
-  Hi there 👋, I'm GK 
-  <a href="https://github.com/gaurangkumar">
+  Hi there 👋, I'm GK <a href="https://github.com/gaurangkumar">
     <img align="center" src="https://en4347cusb2mb56.m.pipedream.net" />
   </a>
 </h1>
 
-<br><br>
+<br>
 
 <a href="https://github.com/gaurangkumar" title="Total commits this year">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurangkumar&show_icons=true&theme=dracula&hide_title=true&hide_rank=true&hide=stars,prs,issues,contribs" />
 </a>
 
-<br><br>
+<br>
 
-<table style="border:0">
+<table style="border:0; padding: 0;">
   <tr>
     <td>
       <a href="https://github.com/gaurangkumar">
