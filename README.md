@@ -4,25 +4,6 @@
   <img align="center" src="https://en4347cusb2mb56.m.pipedream.net" />
 </a>
 
-<table border="0">
-  <tr>
-    <td>
-<a href="https://github.com/gaurangkumar">
-  <img align="center" src="https://github-readme-stats-deploy-jeremykenedy.vercel.app/api?username=gaurangkumar&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=30,222222,444444&title_color=fff&text_color=fff&line_height=20&custom_title=GitHub%20Stats&hide_border=true" />
-</a>
-    </td>
-    <td>
-<a href="https://github.com/gaurangkumar">
-  <img align="center" src="https://github-readme-stats-deploy-jeremykenedy.vercel.app/api/top-langs/?username=gaurangkumar&layout=compact&bg_color=30,444444,222222&title_color=fff&text_color=fff&custom_title=What%20I%20Do%20Most&hide_border=true" />
-</a>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-
-<br>
 <br>
 
 <a href="https://github.com/gaurangkumar" title="Total commits this year">
@@ -30,6 +11,21 @@
 </a>
 
 <br>
+
+<table style="border:0">
+  <tr>
+    <td>
+      <a href="https://github.com/gaurangkumar">
+        <img align="center" src="https://github-readme-stats-deploy-jeremykenedy.vercel.app/api?username=gaurangkumar&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=30,222222,444444&title_color=fff&text_color=fff&line_height=20&custom_title=GitHub%20Stats&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gaurangkumar">
+        <img align="center" src="https://github-readme-stats-deploy-jeremykenedy.vercel.app/api/top-langs/?username=gaurangkumar&layout=compact&bg_color=30,444444,222222&title_color=fff&text_color=fff&custom_title=What%20I%20Do%20Most&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 
 <a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
@@ -42,8 +38,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar" />
 </a>
 -->
-
-<br>
 
 Welcome to my profile! This really has a MySpace feel to it, doesn't it? I wonder if I can set up some background tunes 🤔.
 
