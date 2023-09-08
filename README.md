@@ -4,12 +4,13 @@
   </a>
 </h1>
 
+<!--
 <br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurangkumar)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/gaurangkumar" title="Total commits this year">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurangkumar&show_icons=true&theme=dracula&hide_title=true&hide_rank=true&hide=stars,prs,issues,contribs" />
 </a>
-
+-->
 <br>
 
 <table style="border:0; padding: 0;">
@@ -39,22 +40,22 @@
 </a>
 -->
 
-Welcome to my profile! This really has a MySpace feel to it, doesn't it? I wonder if I can set up some background tunes 🤔.
+Welcome to my profile! This really has a MySpace feel to it. I wonder if I can set up some background tunes 🤔.
 
-I'm mainly a PHP developer. Most of my work on GitHub is on **[IronPHP Framework](https://github.com/ironphp/ironphp)**, a personal finance manager, and the associated tools.
+I'm mainly a PHP developer. Most of my work on GitHub is open-source content so others can use/learn from it.
 
-But also interesting are the following tools that you might find useful:
+Here are some of my projects:
 
-1. [TicTacToe](https://github.com/gaurangkumar/tictactoe). A two player TicTacToe online game.
-1. [CodeWork](https://github.com/gaurangkumar/codework). Freelancer management website.
+1. [TicTacToe](https://github.com/gaurangkumar/tictactoe). A two-player TicTacToe online game.
+2. [CodeWork](https://github.com/gaurangkumar/codework). Freelancer management website.
+3. [IronPHP]([https://github.com/gaurangkumar/codework](https://github.com/ironphp/ironphp)). A PHP Framework.
 
-- 🔭 I’m currently working on IronPHP Framework
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ironphp
+- 🔭 I’m currently working as a Freelancer
+- 🌱 I’m currently learning Machine Learning & Artificial Intelligence
 - 💬 Ask me about anything
-- ⚡ Fun fact: Besides coding I spend my time in Gaming, Physics, Discovery channel.
+- ⚡ Fun fact: Besides coding, I spend my time in Traveling, Gaming, Physics, Discovery channel.
 
-Also, as you can see in the bottom left corner, you can sponsore me for the work I do on IronPHP. I'm very proud to have such a nice group of people willing to support me.
+Also, as you can see in the bottom left corner, you can sponsor me for the work I do on GitHub. I'm very proud to have such a nice group of people willing to support me.
 Thank you!
 
 <!--
