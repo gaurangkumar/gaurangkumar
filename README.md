@@ -48,7 +48,7 @@ Here are some of my projects:
 
 1. [TicTacToe](https://github.com/gaurangkumar/tictactoe). A two-player TicTacToe online game.
 2. [CodeWork](https://github.com/gaurangkumar/codework). Freelancer management website.
-3. [IronPHP]([https://github.com/gaurangkumar/codework](https://github.com/ironphp/ironphp)). A PHP Framework.
+3. [IronPHP](https://github.com/gaurangkumar/codework](https://github.com/ironphp/ironphp). A PHP Framework.
 
 - 🔭 I’m currently working as a Freelancer
 - 🌱 I’m currently learning Machine Learning & Artificial Intelligence
