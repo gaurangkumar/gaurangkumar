@@ -10,7 +10,7 @@
 <a href="https://github.com/gaurangkumar" title="Total commits this year">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurangkumar&show_icons=true&theme=dracula&hide_title=true&hide_rank=true&hide=stars,prs,issues,contribs" />
 </a>
--->
+
 <br>
 
 <table style="border:0; padding: 0;">
@@ -28,7 +28,6 @@
   </tr>
 </table>
 
-<!-- 
 <a href="https://github.com/gaurangkumar" title="GK's wakatime stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurangkumar&layout=compact" />
 </a>
@@ -43,13 +42,13 @@
 Welcome to my profile! This really has a MySpace feel to it. I wonder if I can set up some background tunes 🤔.
 
 I'm mainly a PHP developer. Most of my work on GitHub is open-source content so others can use/learn from it.
-
+<!--
 Here are some of my projects:
 
 1. [TicTacToe](https://github.com/gaurangkumar/tictactoe). A two-player TicTacToe online game.
 2. [CodeWork](https://github.com/gaurangkumar/codework). Freelancer management website.
 3. [IronPHP](https://github.com/ironphp/ironphp). A PHP Framework.
-
+-->
 - 🔭 I’m currently working as a Freelancer
 - 🌱 I’m currently learning Machine Learning & Artificial Intelligence
 - 💬 Ask me about anything
